@@ -18,7 +18,8 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-![E-EBOOk](C:\Users\aquaritis17\Documents\Aulas_Backend-DIO\Aula_Java\lab-natty-or-not\Imagens\Capa_Livro-mini.png)[LINK PARA O E-BOOK AQUI]()
+![E-EBOOK](https://github.com/RobsonJS-17/lab-natty-or-not/blob/main/Imagens/Capa_Livro-mini.png)  
+[LINK PARA O E-BOOK AQUI](https://drive.google.com/file/d/1e9ENu5v2RDes2opFbVLS4ABQXIDLGP_U/view?usp=sharing)
 
 ## 💭 Reflexão
 
